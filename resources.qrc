@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>higuys-osx-mini-icon.png</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>logo-higuys.png</file>
+    </qresource>
+</RCC>
